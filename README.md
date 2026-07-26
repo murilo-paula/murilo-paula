@@ -1,33 +1,29 @@
-# Hi there, I'm Murilo 👋
+# Olá, eu sou o Murilo 👋
 
-### 💻 Front-End Developer
+### 💻 Desenvolvedor Front-End
 
-Passionate Front-End Developer focused on building fast, modern, and responsive web applications. I am currently seeking my first professional opportunity to apply my skills, solve real-world problems, and grow within a collaborative tech team.
+Desenvolvedor Front-End apaixonado por criar aplicações web rápidas, modernas e responsivas. Atualmente, busco minha primeira oportunidade profissional na área de tecnologia para aplicar minhas habilidades, resolver problemas reais e crescer junto com uma equipe colaborativa.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tecnologias e Ferramentas
 
-**Core Technologies:**
 * **Front-End:** React | JavaScript (ES6+) | HTML5 | CSS3
-* **Styling & Tooling:** Tailwind CSS | Vite
-* **Version Control:** Git | GitHub
-
-**Exploring & Familiar With:**
-* **Back-End & Databases:** Python | PostgreSQL
+* **Estilização e Ferramentas:** Tailwind CSS | Vite
+* **Controle de Versão:** Git | GitHub
 
 ---
 
-### 🚀 Currently Working On & Learning
+### 🚀 Trabalhando e Aprendendo Atualmente
 
-* Building high-performance, responsive web projects to deepen my expertise in **React**, **Vite**, and **Tailwind CSS**.
-* Exploring full-stack concepts by integrating front-end interfaces with **Python** and **PostgreSQL**.
+* Construindo projetos web responsivos e de alta performance para aprofundar meus conhecimentos práticos em **React**, **Vite** e **Tailwind CSS**.
+* Focado em boas práticas de componentização e na construção de interfaces de usuário limpas e acessíveis.
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Vamos nos conectar!
 
-I am actively looking for my first role in tech and would love to connect!
+Estou ativamente em busca da minha primeira oportunidade como desenvolvedor e adoraria me conectar!
 
-* **LinkedIn:** [linkedin.com/in/murilo-paula](https://www.linkedin.com/in/seu-perfil)
-* **Email:** [murilo.pauladsz](mailto:seu.email.profissional@gmail.com)
+* **LinkedIn:** [linkedin.com/in/murilo-paula](https://www.linkedin.com/in/murilo-paula)
+* **E-mail:** [murilo.pauladsz@gmail.com](mailto:murilo.pauladsz@gmail.com)
