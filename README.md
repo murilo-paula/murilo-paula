@@ -7,10 +7,6 @@
   e buscando crescer cada vez mais como profissional de tecnologia.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=murilo-paula&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0FA3B1&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ### 🚀 Sobre mim
