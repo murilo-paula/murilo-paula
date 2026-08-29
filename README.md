@@ -46,17 +46,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murilo-paula&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-paula&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" height="165"/>
-</p>
-
-> *Se o nome de usuário acima (`murilo-paula`) não for o mesmo do seu GitHub, é só trocar nos links das imagens acima para o seu username real.*
-
----
-
 ### 📫 Vamos nos conectar!
 
 <p align="left">
